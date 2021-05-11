@@ -4,14 +4,14 @@ body{
 
 h1{
     text-align: center; /* Setter teksten midt på skjermen */
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; /* Bytter på fonten til teksten */
+    font-family: Monaco; /* Bytter på fonten til teksten */
     text-decoration: underline; /* Legger til en underlinje på teksten */
     color: #006eff; /* Gir teksten farge #006eff */
 }
 
 h3{
     text-align: center; /* Setter teksten midt på skjermen */
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; /* Bytter på fonten til teksten */
+    font-family: Monaco; /* Bytter på fonten til teksten */
     color: #006eff; /* Gir teksten farge #006eff */
 }
 
