@@ -27,3 +27,8 @@ h3{
 .center{
     text-align: center; /* Sentrerer center klassen */
 }
+
+.dotted{
+    border: 5px dotted;
+    border-style: none none dotted;
+}
